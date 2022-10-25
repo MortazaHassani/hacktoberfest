@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mortaza Hassani](https://github.com/MortazaHassani)
+- Place: Karachi, Sindh, Pakistan
+- Bio: A computer systems engineer
+- GitHub: [MortazaHassani](https://github.com/MortazaHassani)
